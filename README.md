@@ -87,7 +87,7 @@
     <td width="65%">
       <h3>SANGREVITAL - GESTIÓN DE DONACIÓN DE SANGRE</h3>
       <p>
-        <strong>SangreVital</strong> es una aplicación web desarrollada con <strong>Node.js</strong>, <strong>EJS</strong> y <strong>PostgreSQL</strong> que permite la gestión integral de la donación de sangre en Colombia. Los usuarios pueden registrarse como donantes, completar su perfil médico, y los centros de salud pueden gestionar solicitudes y perfiles de donantes eficientemente.
+        <strong>SangreVital</strong> es una aplicación web desarrollada con <strong>Node.js</strong> y <strong>Express.js</strong> que permite la gestión integral de la donación de sangre en Colombia. Los usuarios pueden registrarse como donantes, completar su perfil médico, y los centros de salud pueden gestionar solicitudes y perfiles de donantes eficientemente.
       </p>
       <ul>
         <li>🔒 Sistema de login y registro con sesiones</li>
