@@ -94,7 +94,7 @@
         <li>📄 Captura de datos médicos con formularios dinámicos</li>
         <li>🏥 Roles: donante y centro de salud</li>
         <li>📊 PostgreSQL como base de datos estructurada</li>
-        <li>🎨 Estilos personalizados con Bootstrap y gradientes</li>
+        <li>🎨 Estilos personalizados con Bootstrap</li>
       </ul>
       <p>
         <a href="https://github.com/MateoJaimes/SangreVital-Web" target="_blank">
