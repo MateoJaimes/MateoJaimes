@@ -40,7 +40,7 @@
 <!-- Lenguajes -->
 <h3 align="center">💻 LENGUAJES DE PROGRAMACIÓN</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,py,js&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,php,py,js,python&theme=light" />
 </p>
 
 <!-- Backend -->
