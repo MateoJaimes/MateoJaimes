@@ -95,12 +95,8 @@
         <li>🏥 Roles: donante y centro de salud</li>
         <li>📊 PostgreSQL como base de datos estructurada</li>
         <li>🎨 Estilos personalizados con Bootstrap</li>
+        <li>🔒 Codigo Privado</li>
       </ul>
-      <p>
-        <a href="https://github.com/MateoJaimes/SangreVital-Web" target="_blank">
-          <img src="https://img.shields.io/badge/VER%20REPOSITORIO-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </p>
     </td>
   </tr>
 </table>
