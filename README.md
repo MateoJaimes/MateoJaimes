@@ -1,10 +1,10 @@
 <h1 align="center">👋 HOLA, SOY MATEO JAIMES</h1>
 
 <p align="center">
-  <a href="https://www.youtube.com/@MateoJaimes" target="_blank" style="margin: 0 6px;">
+  <a href="https://www.youtube.com/@ramxcol" target="_blank" style="margin: 0 6px;">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.tiktok.com/@mateo_jaimes20" target="_blank" style="margin: 0 6px;">
+  <a href="https://www.tiktok.com/@ramxcol" target="_blank" style="margin: 0 6px;">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://linkedin.com/in/MateoJaimes" target="_blank" style="margin: 0 6px;">
