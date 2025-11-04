@@ -40,13 +40,13 @@
 <!-- Lenguajes -->
 <h3 align="center">💻 LENGUAJES DE PROGRAMACIÓN</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,py,js&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,php,py,js,dart&theme=light" />
 </p>
 
 <!-- Backend -->
 <h3 align="center">⚙️ FRAMEWORKS</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel&theme=light,flutter" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,flutter&theme=light" />
 </p>
 
 <!-- Bases de Datos -->
