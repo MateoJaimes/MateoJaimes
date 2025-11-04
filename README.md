@@ -46,7 +46,7 @@
 <!-- Backend -->
 <h3 align="center">⚙️ FRAMEWORKS</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel&theme=light,flutter" />
 </p>
 
 <!-- Bases de Datos -->
