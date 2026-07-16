@@ -1,116 +1,77 @@
-<h1 align="center">👋 HOLA, SOY MATEO JAIMES</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,30:0B1F3A,60:1565C0,100:00C6FF&text=Mateo%20Jaimes%20Uribe&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20&descSize=22&descAlignY=58&animation=fadeIn"
+/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=00C6FF&center=true&vCenter=true&width=1100&lines=International+Runner-up+%E2%80%94+Latin+American+Innovation+Rally+(8%2B+countries);National+Champion+%E2%80%94+Latin+American+Innovation+Rally+(50%2B+universities);Regional+Champion+%E2%80%94+Latin+American+Innovation+Rally;3x+Project+Fair+Champion;Open+to+Internships" />
+<br>
 
-<p align="center">
-  <a href="https://www.youtube.com/@ramxcol" target="_blank" style="margin: 0 6px;">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.tiktok.com/@ramxcol" target="_blank" style="margin: 0 6px;">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <a href="https://linkedin.com/in/MateoJaimes" target="_blank" style="margin: 0 6px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/MateoJaimes" target="_blank" style="margin: 0 6px;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:mateojaimes201@gmail.com" target="_blank" style="margin: 0 6px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
-<h2>📌 SOBRE MÍ</h2>
-
-<p align="left">
-🎓 ESTUDIANTE DE INGENIERÍA DE SISTEMAS
-  
-🎮 APASIONADO POR LA TECNOLOGÍA Y EL DESARROLLO DE SOLUCIONES ÚTILES PARA LA SOCIEDAD 🚀
-
-📸 CREADOR DE CONTENIDO EN <strong>RAM X COL</strong>, DONDE COMPARTO CONTENIDO SOBRE HARDWARE Y SOFTWARE ⚙️
-
-💻 EN CAMINO A CONVERTIRME EN UN PROFESIONAL INTEGRAL: DESARROLLADOR, LÍDER, INNOVADOR Y CREATIVO 💡
-
-🧠 SIEMPRE APRENDIENDO, SIEMPRE CONSTRUYENDO... CON CADA LÍNEA DE CÓDIGO Y CADA NUEVO RETO 👨‍💻
-
-📫 CONTACTO: <strong>mateojaime201@gmail.com</strong>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/demian-romero-bautista-a245a2196)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateojaime201@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/3115504370-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573115504370)
 
 <br>
 
-<h2>🛠️ TECNOLOGÍAS CONOCIDAS</h2>
-<!-- Lenguajes -->
-<h3 align="center">💻 LENGUAJES DE PROGRAMACIÓN</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,py,js,dart&theme=light" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=MateoJaimes&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
 
-<!-- Backend -->
-<h3 align="center">⚙️ FRAMEWORKS</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,flutter&theme=light" />
-</p>
+</div>
 
-<!-- Bases de Datos -->
-<h3 align="center">🗄️ BASES DE DATOS</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" />
-</p>
+---
 
-<!-- Frontend -->
-<h3 align="center">🎨 FRONTEND</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css&theme=light" />
-</p>
-
-<!-- Herramientas de Desarrollo -->
-<h3 align="center">🧰 HERRAMIENTAS DE DESARROLLO</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vscode&theme=light" />
-</p>
-
-<!-- IA y Diseño -->
-<h3 align="center">🧠 DISEÑO</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ai,ps&theme=light" />
-</p>
-
-<br>
-
-<h2>📂 ALGUNOS PROYECTOS DESTACADOS</h2>
-
-<table align="center">
-  <tr>
-    <td width="35%" align="center">
-      <a href="https://github.com/MateoJaimes/SangreVital-Web" target="_blank">
-        <img src="https://www.dropbox.com/scl/fi/epjcnucy297lt9sbht3vg/logo.png?rlkey=xqqj61kcxma3iu4yniz7afl5f&st=wt3qqu64&raw=1" alt="SangreVital Logo" width="250" />
-      </a>
-    </td>
-    <td width="65%">
-      <h3>SANGREVITAL - GESTIÓN DE DONACIÓN DE SANGRE</h3>
-      <p>
-        <strong>SangreVital</strong> es una aplicación web desarrollada con <strong>Node.js</strong> y <strong>Express.js</strong> que permite la gestión integral de la donación de sangre en Colombia. Los usuarios pueden registrarse como donantes, completar su perfil médico, y los centros de salud pueden gestionar solicitudes y perfiles de donantes eficientemente.
-      </p>
-      <ul>
-        <li>🔒 Sistema de login y registro con sesiones</li>
-        <li>📄 Captura de datos médicos con formularios dinámicos</li>
-        <li>🏥 Roles: donante y centro de salud</li>
-        <li>📊 PostgreSQL como base de datos estructurada</li>
-        <li>🎨 Estilos personalizados con Bootstrap</li>
-        <li>🔒 Codigo Privado</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-<h2>📊 GITHUB STATS</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MateoJaimes&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Mateo Jaimes GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoJaimes&layout=compact&theme=dark&bg_color=0A0A0A" alt="Mateo Jaimes Top Languages" />
-</p>
+## 👨‍💻 About Me
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MateoJaimes&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophy" width="84%" />
+
+
+| **Location** | Rio de Oro, Cesar - Colombia |
+|:---:|:---|
+| **Education** | B.S. in Systems Engineering · Universidad Francisco de Paula Santander Ocaña (UFPSO) |
+| **Current Semester** | 10th Semester |
+| **GPA** | 3.9 / 5.0 |
+| **Role** | Full-Stack Developer · Scrum Master · Startup Founder |
+| **International Achievement** | International Runner-up — Latin American Innovation Rally (8+ countries) |
+| **National Achievement** | National Champion — Latin American Innovation Rally (50+ universities) |
+| **Regional Achievement** | Regional Champion — Latin American Innovation Rally |
+| **Project Fairs** | 3× Project Fair Champion |
+| **Scholarship** | Academic Exchange Scholarship — Instituto Politécnico Nacional (Mexico) |
+| **Currently Learning** | Flutter • NestJS • Next.js |
+| **Available For** | Software Engineering Internships & Remote Opportunities |
+| **Passion** | Building innovative software that solves real-world problems |
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=js,react,vue,tailwind,html,css&perline=7)](https://skillicons.dev)
+
+<br/>
+
+**Backend**
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,express,dart,flutter&perline=7)](https://skillicons.dev)
+
+<br/>
+
+**Databases**
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,supabase,mongo&perline=7)](https://skillicons.dev)
+
+<br/>
+
+**DevOps & Tools**
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,postman,figma,git&perline=7)](https://skillicons.dev)
+
+<br/>
+
+**Product & Methods**
+
+![Scrum](https://img.shields.io/badge/Scrum_Master-6DB33F?style=flat-square)
+![PO](https://img.shields.io/badge/Product_Owner-FF6C37?style=flat-square)
+![MVC](https://img.shields.io/badge/MVC_Architecture-5A0FC8?style=flat-square&logo=mvc&logoColor=white)
+
 </div>
