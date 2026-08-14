@@ -23,7 +23,7 @@
 
 | **Location** | Rio de Oro, Cesar - Colombia |
 |:---:|:---|
-| **Education** | B.S. in Systems Engineering · Universidad Francisco de Paula Santander Ocaña (UFPSO) |
+| **Education** | Systems Engineering · Universidad Francisco de Paula Santander Ocaña (UFPSO) |
 | **Current Semester** | 10th Semester |
 | **GPA** | 3.9 / 5.0 |
 | **Role** | Full-Stack Developer · Scrum Master · Startup Founder |
@@ -33,7 +33,7 @@
 | **Project Fairs** | 3× Project Fair Champion |
 | **Scholarship** | Academic Exchange Scholarship — Instituto Politécnico Nacional (Mexico) |
 | **Currently Learning** | Flutter • NestJS • Next.js |
-| **Available For** | Software Engineering Internships & Remote Opportunities |
+| **Available For** | Software Engineering & Remote Opportunities |
 | **Passion** | Building innovative software that solves real-world problems |
 
 </div>
