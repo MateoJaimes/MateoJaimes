@@ -46,13 +46,13 @@
 
 **Frontend**
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=js,react,vue,tailwind,html,css&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,css,tailwind&perline=7)](https://skillicons.dev)
 
 <br/>
 
 **Backend**
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=python,nodejs,express,dart,flutter&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,nodejs,express,dart,flutter&perline=7)](https://skillicons.dev)
 
 <br/>
 
