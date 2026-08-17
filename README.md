@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=00C6FF&center=true&vCenter=true&width=1100&lines=Third+International+Place+%E2%80%94+Latin+American+Innovation+Rally+(12%2B+countries);National+Champion+%E2%80%94+Latin+American+Innovation+Rally+(50%2B+universities);Regional+Champion+%E2%80%94+Latin+American+Innovation+Rally;3x+Project+Fair+Champion;JavaScript+%E2%80%94+Node+JS+%E2%80%94+React+JS+%E2%80%94+Flutter;" />
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/demian-romero-bautista-a245a2196)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-jaimes/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateojaime201@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/3115504370-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573115504370)
 
